@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-7a7c41e5d7.youzeng66.cn/sitemap.xml
